@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Fahkwang|Fredericka+the+Great|Monoton|Questrial');
+
 a{
     color: #0400fc
 }
@@ -11,12 +13,19 @@ body{
 nav{
     background-color: #ffffff;
     color: #1b0238;
+    font-size: 18px;
   }
 h1,h2,h4,h5{
     text-align: center;
     color: #1b0238;
+    font-family: 'Questrial',sans-serif;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
 }
 p{
     text-align: center;
+    font-family: 'Fahkwang',sans-serif
 }
  
