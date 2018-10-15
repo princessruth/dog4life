@@ -3,18 +3,61 @@
 a{
     color: #0400fc
 }
+
 a:hover{
     color: #76dd7e
 }
+
 body{
     background-color: #ffffff;
   }
+
+.box1{
+    background-color: #0400fc;
+    font-size: 50px;
+    text-align-last: right;
+    height: 250px;
+}
+
+.box2{
+    background-color: #ffc0cb;
+    font-size: 50px;
+    text-align: center;
+    height: 50%;
+}
+
+div{
+    background-color: #faebd7;
+}
+
+.div1{
+    text-align: left;
+    width: 50%;
+}
+
+.div2{
+    text-align: right;
+    width: 50%;
+}
+
+.div3{
+    text-align: left;
+    width: 50;
+}
+
+.div4{
+    text-align: right;
+    width: 50%;
+}
   
 nav{
     background-color: #ffffff;
     color: #1b0238;
-    font-size: 18px;
+    font-size: 20px;
+    text-align: center;
+    
   }
+
 h1,h2,h4,h5{
     text-align: center;
     color: #1b0238;
