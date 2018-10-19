@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Fahkwang|Questrial');
 
+/* GENERAL-STYLE */
 a {
     color: #0400fc
  }
@@ -17,51 +18,76 @@ footer {
     margin-top: 100px;
 }
 
-.box1 {
-    background-color: #0400fc;
-    font-size: 50px;
-    text-align-last: right;
-    height: 250px;
- }
-
-.box2 {
-    background-color: #ffc0cb;
-    font-size: 50px;
+h1,h2,h4,h5 {
     text-align: center;
-    height: 50%;
+    color: #1b0238;
+    font-family: 'Questrial',sans-serif;
  }
 
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+ }
+p {
+    text-align: center;
+    font-family: 'Fahkwang',sans-serif
+ }
+
+blockquote{
+    font-family: 'Fahkwang', sans-serif;
+}
+
+ div {
+    background-color: whitesmoke;
+}
+
+nav {
+    background-color: #ffffff;
+    color: #1b0238;
+    font-size: 20px;
+    text-align: center;
+    }
+
+.text-center {
+    text-align: center;
+}
+
+/* INDEX-STYLE */
 .mom1 {
-    height: 300px; 
-    background-color: #ffc0cb;
+    height: 350px;
     margin-bottom: 50px;
 }
 
 .mom2{
-    height: 300px;
+    height: 350px;
     margin-top: 50px;
+}
+
+.they-hope {
+    text-align: left;
+    /* background-color:peachpuff; */
 }
 
 .div1 {
     float: left;
     width: 30%;
-    padding-left: 20px;   
+    padding-left: 50px;   
     height: inherit;
-    margin-bottom: inherit;
+    
  }
 
 .div2 {
     float: right;
     width: 30%;
-    padding-right: 20px;
+    padding-right: 40px;
     height: inherit;
-    mar
+
  }
 
 .div3 {
     float: left;
     width: 30%;
-    padding-left: 20px;
+    padding-left: 50px;
     height: inherit;
     
  }
@@ -69,29 +95,58 @@ footer {
 .div4 {
     float: right;
     width: 30%;
-    padding-right: 20px;
+    padding-right: 40px;
     height: inherit;
  }
 
-nav {
-    background-color: #ffffff;
-    color: #1b0238;
-    font-size: 20px;
-    text-align: center;
-    
-  }
+.info {
+    height: 300px;;
+}
 
-h1,h2,h4,h5 {
+.dp1 {
+    float: left;
+    width: 33,33%
+}
+
+.dp2 {
+    float: left;
+    width: 33,33%
+}
+
+.dp3 {
+    float: left;
+    width: 33,33%
+}
+
+/* STYLE ABOUT */
+.mission-parent{
+    height: 350px;
+    /* background-color: pink; */
+}
+.mission {
+    float: left;
+    align-content: center;
+    height: 350px;
+    padding-top: 75px;
+    padding-left: 75px; 
+    
+}
+
+.our-mission {
+    font-size: 38px;
     text-align: center;
-    color: #1b0238;
-    font-family: 'Questrial',sans-serif;
- }
-h1 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
- }
-p {
-    text-align: center;
-    font-family: 'Fahkwang',sans-serif
- }
+    border: #000000; 
+}
+
+.mission-value {
+    float: right;
+    height: 300px;
+    padding-top: 75px;
+    padding-right: 34px;
+}
+
+
+
+
+
  
