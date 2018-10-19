@@ -1,56 +1,79 @@
-@import url('https://fonts.googleapis.com/css?family=Comfortaa|Fahkwang|Fredericka+the+Great|Monoton|Questrial');
+@import url('https://fonts.googleapis.com/css?family=Fahkwang|Questrial');
 
-a{
+a {
     color: #0400fc
-}
+ }
 
-a:hover{
+a:hover {
     color: #76dd7e
-}
+ }
 
-body{
+body {
     background-color: #ffffff;
   }
+  
+footer {
+    text-align: center;
+    margin-top: 100px;
+}
 
-.box1{
+.box1 {
     background-color: #0400fc;
     font-size: 50px;
     text-align-last: right;
     height: 250px;
-}
+ }
 
-.box2{
+.box2 {
     background-color: #ffc0cb;
     font-size: 50px;
     text-align: center;
     height: 50%;
+ }
+
+.mom1 {
+    height: 300px; 
+    background-color: #ffc0cb;
+    margin-bottom: 50px;
 }
 
-div{
-    background-color: #faebd7;
+.mom2{
+    height: 300px;
+    margin-top: 50px;
 }
 
-.div1{
-    text-align: left;
-    width: 50%;
-}
+.div1 {
+    float: left;
+    width: 30%;
+    padding-left: 20px;   
+    height: inherit;
+    margin-bottom: inherit;
+ }
 
-.div2{
-    text-align: right;
-    width: 50%;
-}
+.div2 {
+    float: right;
+    width: 30%;
+    padding-right: 20px;
+    height: inherit;
+    mar
+ }
 
-.div3{
-    text-align: left;
-    width: 50;
-}
+.div3 {
+    float: left;
+    width: 30%;
+    padding-left: 20px;
+    height: inherit;
+    
+ }
 
-.div4{
-    text-align: right;
-    width: 50%;
-}
-  
-nav{
+.div4 {
+    float: right;
+    width: 30%;
+    padding-right: 20px;
+    height: inherit;
+ }
+
+nav {
     background-color: #ffffff;
     color: #1b0238;
     font-size: 20px;
@@ -58,17 +81,17 @@ nav{
     
   }
 
-h1,h2,h4,h5{
+h1,h2,h4,h5 {
     text-align: center;
     color: #1b0238;
     font-family: 'Questrial',sans-serif;
-}
-h1{
+ }
+h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
-}
-p{
+ }
+p {
     text-align: center;
     font-family: 'Fahkwang',sans-serif
-}
+ }
  
