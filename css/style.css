@@ -70,33 +70,39 @@ nav {
 
 .div1 {
     float: left;
-    width: 30%;
-    padding-left: 50px;   
+    width: 50%;
+    /* padding-left: 50px; */
     height: inherit;
+    text-align: center;
     
  }
 
 .div2 {
     float: right;
-    width: 30%;
-    padding-right: 40px;
+    width: 50%;
+    /* padding-right: 40px; */
     height: inherit;
-
+    text-align: center;
+    
  }
 
 .div3 {
     float: left;
-    width: 30%;
-    padding-left: 50px;
+    width: 50%;
+    /* padding-left: 50px; */
     height: inherit;
+    text-align: center;
+
     
  }
 
 .div4 {
     float: right;
-    width: 30%;
-    padding-right: 40px;
+    width: 50%;
+    /* padding-right: 40px; */
     height: inherit;
+    text-align: center;
+    
  }
 
 .info {
