@@ -15,7 +15,7 @@ body {
   
 footer {
     text-align: center;
-    height: 200px;
+    height: 250px;
     background-color: #f5f5f5;
     margin-top: 30px;
 }
@@ -71,6 +71,37 @@ nav {
     /* background-color:peachpuff; */
 }
 
+.div-0 {
+    width: 100%;
+    height: 350px;;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.div-1 {
+    width: 100%;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.div-2{
+    width: 50%;
+    height:300px;
+    float: left;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.div-3 {
+    
+    width: 50%;
+    height:300px;
+    float: left;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+
 .div1 {
     float: left;
     width: 50%;
@@ -113,7 +144,29 @@ nav {
 }
 
 .index-bg{
+    background-image:url(https://media-public.canva.com/MACNTPvHHMA/1/screen.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 550px;
     margin-bottom: 30px;
+}
+
+.kekerasan {
+    color: #ffffff;
+    text-align: left;
+    float: left;
+    font-size: 50px;
+}
+
+.m-show {
+    background-color:rgba(0, 0,0, alpha)
+}
+
+.show{
+    float: left;
+    font-size: 20px;
+    color: #ffffff;
 }
 
 .dp1 {
@@ -137,7 +190,7 @@ nav {
     height: 400%;
 } */
 .dog-bg-about {
-    background-image: url(https://media-public.canva.com/MACNTPvHHMA/1/screen.jpg);
+    background-image:  url(https://figopetinsurance.com/sites/default/files/styles/blog_detail/public/imagedogshungry-homeless-sad-dog-boxed-areablog.jpg?itok=MPbROMad);
     background-repeat: no-repeat;
     background-size: 100%;
     margin-bottom: 30px;
@@ -156,6 +209,7 @@ nav {
  
 .mission-parent{
     height: 350px;
+    margin-bottom: 20px;
     /* background-color: pink; */
 }
 .mission {
@@ -179,6 +233,54 @@ nav {
     padding-top: 75px;
     padding-right: 34px;
 }
+/* STYLE CONTACT */
+
+.contact {
+    width: 100%;
+    height: 450px;
+}
+
+.map {
+    height: 450px;
+    width: 50%;
+    float: left;
+}
+
+.form {
+    height: 450px;
+    width: 50%;
+    float: right;
+}
+
+/* GALLERY STYLE */
+.action {
+    width: 100%;
+    height: 1500px;
+}
+
+.a-1 {
+    background-image: url(https://louisianalawblog.lexblogplatform.com/wp-content/uploads/sites/98/2016/08/dog.jpg);
+    float: left;
+    width: 33,33%;
+    height: 250px;
+}
+
+.a-2{
+    background-image: url(http://www.rspcasa.org.au/wp-content/uploads/2018/06/RSPCA-animal-rescue-mobile-banner1-600x300-fit-constrain-q70-mobile_banner_image.jpg);
+    float: left;
+    width: 33,33%;
+    height: 250px;
+}
+
+.a-3 {
+    background-image: url(https://louisianalawblog.lexblogplatform.com/wp-content/uploads/sites/98/2016/08/dog.jpg);
+    float: left;
+    width: 33,33%;
+    height: 250px;
+}
+
+
+
 
 
 
