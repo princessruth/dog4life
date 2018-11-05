@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Fahkwang|Questrial');
 
 /* GENERAL-STYLE */
+body {
+    margin: 0;
+    padding: 0;
 a {
     color: #0400fc
     text-decoration: none;
