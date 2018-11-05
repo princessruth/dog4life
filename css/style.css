@@ -3,6 +3,7 @@
 /* GENERAL-STYLE */
 a {
     color: #0400fc
+    text-decoration: none;
  }
 
 a:hover {
@@ -48,7 +49,9 @@ nav {
     color: #1b0238;
     font-size: 20px;
     text-align: center;
+    vertical-align: middle;
     }
+    
 
 .text-center {
     text-align: center;
