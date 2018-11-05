@@ -1,12 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Fahkwang|Questrial');
 
 /* GENERAL-STYLE */
-body {
-    margin: 0;
-    padding: 0;
-}
+
 a {
-    color: #0400fc
+    color: ##1ff578;
     text-decoration: none;
  }
 
@@ -16,6 +13,7 @@ a:hover {
 
 body {
     background-color: #ffffff;
+    
   }
   
 footer {
@@ -53,7 +51,7 @@ nav {
     color: #1b0238;
     font-size: 20px;
     text-align: center;
-    vertical-align: middle;
+    
     }
     
 
@@ -62,6 +60,11 @@ nav {
 }
 
 /* INDEX-STYLE */
+.logo {
+    vertical-align: middle;
+    padding top: 20px;
+    
+}
 .mom1 {
     height: 350px;
     margin-bottom: 50px;
